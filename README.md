@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0724-find-pivot-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
