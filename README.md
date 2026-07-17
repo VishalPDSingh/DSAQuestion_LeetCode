@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
