@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1260-shift-2d-grid) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
