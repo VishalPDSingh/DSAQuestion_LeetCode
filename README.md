@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2652-sum-multiples) |
+| [3099-harshad-number](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3099-harshad-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
