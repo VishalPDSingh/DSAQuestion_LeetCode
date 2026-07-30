@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1260-shift-2d-grid) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
