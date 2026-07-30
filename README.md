@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2652-sum-multiples) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3099-harshad-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
