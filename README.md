@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2235-add-two-integers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
