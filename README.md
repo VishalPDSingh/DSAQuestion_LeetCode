@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
