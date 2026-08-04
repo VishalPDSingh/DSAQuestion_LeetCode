@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
