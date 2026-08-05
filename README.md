@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
