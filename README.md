@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
