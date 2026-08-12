@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3024-type-of-triangle) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
