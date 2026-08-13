@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
