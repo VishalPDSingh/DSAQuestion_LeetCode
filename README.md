@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
