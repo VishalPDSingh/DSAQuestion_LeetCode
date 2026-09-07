@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0412-fizz-buzz) |
+| [0940-distinct-subsequences-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1510-stone-game-iv) |
