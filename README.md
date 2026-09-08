@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
