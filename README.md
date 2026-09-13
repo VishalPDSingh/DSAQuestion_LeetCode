@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0867-transpose-matrix) |
 | [1140-stone-game-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1260-shift-2d-grid) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1572-matrix-diagonal-sum) |
