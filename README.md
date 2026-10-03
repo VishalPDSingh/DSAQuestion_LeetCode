@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/VishalPDSingh/DSAQuestion_LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
